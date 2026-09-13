@@ -25,4 +25,30 @@
 - Resolved all issues successfully.
 
 ---
+## Date: 13-09-2026
+**Today's Work:**
+- Completed Session 2 live-coding problems:
+  - Vowel & Consonant Counter
+  - CSV Student Record Parser
+  - File Extension Validator
+  - Masked Phone Number Formatter
+  - Bank Transaction Reference Generator & Validator
+- Completed Session 2 assignment problems:
+  - ATM PIN Length Validator
+  - Word Reversal Encoder
+  - Product Inventory CSV Parser
+  - Library ISBN Normalizer & Validator
+  - Stop-Word-Filtered Word Frequency Report
+- Created and worked on the `feature/session_2` branch.
+- Practiced Java strings, StringBuilder, arrays, loops, methods, HashMap, CSV parsing, validation, and word-frequency counting.
+
+**Next Session Plan:**
+- Start Session 3 practice and assignment problems.
+- Continue improving Java problem-solving skills.
+
+**Issues Faced:**
+- Faced minor file/folder and Java compilation issues during implementation.
+- Resolved all issues successfully.
+
+---
 This repository contains my Semester 3 STEP coursework, session work, assignments, and daily progress.
